@@ -1,5 +1,8 @@
 {
-  "name": "F454 Energy Bridge Add-on",
+  "name": "F454 Gateway",
   "url": "https://github.com/Georgoulas/f454-energy-bridge-addon",
-  "maintainer": "Georgoulas <georgoulas@example.com>"
+  "maintainer": "Georgoulas <you@example.com>",
+  "addons": [
+    "f454_energy_bridge"
+  ]
 }
